@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(105, 175, 255);
+}
+h1{
+    font-size: 500%;
+    color: brown;
+
+}
+.cuadro {
+    width: 700px;
+    height: 450px;
+
+    border: 5px solid #333;
+
+    padding: 15px;
+    margin: 20px;
+    overflow: auto;
+
+    background-color: #9d0208 ;
+    border-radius: 8px;
+
+    font-size:xx-large;
+    color: white;
+}
+h2 {
+    font-size: 300%;
+    color: #9d0208;
+}
+ul{
+    font-size:150%;
+    color: #9d0208;
+}
+a {
+    font-size: 150%;
+}
+hr{
+    background-color: black;
+    padding: 0.2%;
+}
